@@ -11,7 +11,7 @@ The models.py file contains the definition of a neural network model architectur
 The s5.ipynb notebook contains the main code to train and evaluate a model on the MNIST dataset. It imports the neural network architecture from models.py. The notebook then trains the model using the training data, evaluates its performance on the test data.
 
 `1.Batch Normalization Model:` This model incorporates batch normalization layers to normalize the activations of each layer in the network.
-
+performance
 `2.Group Normalization Model:` This model utilizes group normalization layers to normalize the activations of each layer in the network, with groups defined by the number of channels.
 
 `3.Layer Normalization Model:` This model applies layer normalization to normalize the activations of each layer in the network.
